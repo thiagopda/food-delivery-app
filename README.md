@@ -1,2 +1,2 @@
-# food-delivery-app
-Multivendor food delivery app flutter
+# food-delivery-laravel-app
+Multivendor food delivery Admin panel
